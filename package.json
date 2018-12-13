@@ -1,9 +1,9 @@
 {
-  "name": "node-todo",
+  "name": "project-poc",
   "version": "0.0.1",
-  "description": "Simple todo application.",
+  "description": "Proof of Concept for 4th Year Project",
   "main": "server.js",
-  "author": "Scotch",
+  "author": "Shane Mc Daid",
   "dependencies": {
     "body-parser": "^1.18.2",
     "chart.js": "^2.7.3",
